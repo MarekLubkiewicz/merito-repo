@@ -1,1 +1,3 @@
 # merito-repo
+Cześć jestem renifer z krainy lodu
+Edytowałem ten plik bezpośrednio na repozytorium zdalnym.
