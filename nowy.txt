@@ -1,3 +1,5 @@
 Sprawdzenie ilości zmienionych linijek
-Druga linijka tekstu.
 I trzecia inijka tekstu.
+
+Kolejne linijki dodane.
+lorem ipsem
