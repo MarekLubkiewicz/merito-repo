@@ -1,5 +1,0 @@
-Sprawdzenie ilości zmienionych linijek
-I trzecia inijka tekstu.
-
-Kolejne linijki dodane.
-lorem ipsem
